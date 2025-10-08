@@ -8,45 +8,60 @@ Los lenguajes más utilizados en Ciencia de Datos son:
 - **SQL**
 - **Julia**
 - **Scala**
-- ## Bibliotecas de Ciencia de Datos
-Algunas bibliotecas comunes usadas en análisis y modelado de datos son:
+## Bibliotecas de Ciencia de Datos
 
-- **NumPy** – Para operaciones numéricas y manejo de matrices.  
-- **Pandas** – Para manipulación y análisis de datos estructurados.  
-- **Matplotlib / Seaborn** – Para visualización de datos.  
-- **Scikit-learn** – Para aprendizaje automático.  
-- **TensorFlow / PyTorch** – Para aprendizaje profundo.
-- ## Herramientas de Ciencia de Datos
+Some of the commonly used libraries used by Data Scientists include:
 
-| Herramienta        | Descripción                              |
-|--------------------|-------------------------------------------|
-| Jupyter Notebook   | Entorno interactivo para ejecutar código. |
-| RStudio            | Entorno para análisis y visualización en R. |
-| Anaconda Navigator | Gestor de entornos y paquetes.            |
-| GitHub             | Plataforma para control de versiones.     |
-| Tableau            | Herramienta de visualización de datos.    |
+1. Pandas  
+2. Numpy  
+3. Matplotlib  
+4. Seaborn  
+5. Scikit-learn  
+6. Keras  
+7. TensorFlow  
+8. PyTorch  
+9. Apache Spark  
+10. Vegas  
+11. Big DL  
+12. Ggplot2
+
+    
+## Data Science Tools
+
+Some of the popular tools used by Data Scientists include:
+
+- Anaconda  
+- Jupyter Notebooks  
+- R Studio  
+- Spyder  
+- Zeppelin
 ## Ejemplos de expresiones aritméticas
 En esta sección se muestran ejemplos simples de operaciones matemáticas como suma, resta, multiplicación y división en Python.
 
-# Multiplicación y suma de números
-a = 5
-b = 3
-resultado = a * b + 10
-resultado
+# Ejercicio 8 - Multiplicar y sumar números
 
+# Definimos dos números
+a = 6
+b = 4
+
+# Realizamos operaciones
+suma = a + b
+multiplicacion = a * b
+
+# Mostramos los resultados
+print("La suma es:", suma)
+print("La multiplicación es:", multiplicacion)
 # Conversión de minutos a horas
 minutos = 120
 horas = minutos / 60
 horas
 
-# Lista de objetivos del curso
-objetivos = [
-    "Comprender los fundamentos de la Ciencia de Datos",
-    "Aprender a utilizar herramientas y lenguajes clave",
-    "Aplicar técnicas básicas de análisis de datos"
-]
-for obj in objetivos:
-    print("-", obj)
+### Objetivos:
+
+- Agregar comentarios a las celdas de código  
+- Crear celdas de tipo Markdown  
+- Añadir listas ordenadas y desordenadas en celdas Markdown  
+- Formatear el contenido de las celdas Markdown con estilos de encabezado
 
     ## Autor
 **Nombre:** Miguel Velarde  
