@@ -51,6 +51,7 @@ multiplicacion = a * b
 # Mostramos los resultados
 print("La suma es:", suma)
 print("La multiplicación es:", multiplicacion)
+
 # Conversión de minutos a horas
 minutos = 120
 horas = minutos / 60
